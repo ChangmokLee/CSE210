@@ -1,7 +1,8 @@
-﻿/* Higher or lower? [h/l]
- * Your score is: */
+﻿/* The card is:
+ * Next card was:
+ * Play again? [y/n] */
 
-public class Player
+public class Dealer
 {
 
 }
